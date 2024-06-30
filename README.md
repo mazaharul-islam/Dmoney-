@@ -1,4 +1,4 @@
-# Project Title: A Automate a demo fintech API by postman & newman
+# Project Title: A Automate demo fintech API by postman & newman
 ## Project Summary: In this project, I have create a flow where admin can login and perform several CRUD actions like as Admin can see User list, create New User, Search User, Update User & Delete User. 
 
 ## Prerequisites:
